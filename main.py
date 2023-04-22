@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 import logging
 import difflib
-import filecmp
 
 logging.addLevelName(logging.INFO, "\033[1;32m%s\033[1;0m" % logging.getLevelName(logging.INFO))
 logging.addLevelName(logging.WARNING, "\033[1;33m%s\033[1;0m" % logging.getLevelName(logging.WARNING))
@@ -77,56 +76,64 @@ def scrape_articles(url, article_links):
     :param article_links: A list of article links already scraped.
     :return: A list of article links scraped from the given URL, including any recursively scraped links.
     """
-    # Make a request to the given URL
-    response = requests.get(url)
-    logging.info(f'Got response from main page:  {response}')
+    try:
+        # Make a request to the given URL
+        response = requests.get(url)
+        
+        if response.status_code != 200:
+            raise Exception(f'Failed to scrape {url}. Status code: {response.status_code}')
+        
+        logging.info(f'Got response from main page:  {response}')
+        
+        # Parse the HTML content using BeautifulSoup
+        soup = BeautifulSoup(response.content, "html.parser")
 
-    # Parse the HTML content using BeautifulSoup
-    soup = BeautifulSoup(response.content, "html.parser")
+        # Find all the article links on the page
+        exclude = ["//", "?"]
+        links = [a["href"] for a in soup.find_all("a", href=lambda href: href and "/wiki/" in href and not any(x in href for x in exclude))]
 
-    # Find all the article links on the page
-    exclude = ["//", "?"]
-    links = [a["href"] for a in soup.find_all("a", href=lambda href: href and "/wiki/" in href and not any(x in href for x in exclude))]
+        # Scrape each article and store the data in a separate text file
+        for link in links:
+            article_url = "https://animalcrossing.fandom.com" + link
+            if article_url not in article_links:
+                data = scrape_article(article_url)
+                filename = f"{data['title'].replace('/', '.')}"
+                textfile = os.path.join(data_dir, f"{filename}.txt")
 
-    # Scrape each article and store the data in a separate text file
-    for link in links:
-        article_url = "https://animalcrossing.fandom.com" + link
-        if article_url not in article_links:
-            data = scrape_article(article_url)
-            filename = f"{data['title'].replace('/', '.')}"
-            textfile = os.path.join(data_dir, f"{filename}.txt")
+                # Get the new file data
+                new_data = f"{data['title']}\n\n{data['summary']}\n\n{data['content']}"
 
-            # Get the new file data
-            new_data = f"{data['title']}\n\n{data['summary']}\n\ndata['content']"
+                if os.path.exists(textfile):
+                    # Read the old data from the file
+                    with open(textfile, "r") as old_file:
+                        old_data = old_file.read()
+                else:
+                    # Set the old data to an empty string if the file doesn't exist
+                    old_data = ""
 
-            if os.path.exists(textfile):
-                # Read the old data from the file
-                with open(textfile, "r") as old_file:
-                    old_data = old_file.read()
-            else:
-                # Set the old data to an empty string if the file doesn't exist
-                old_data = ""
+                # Write the scraped data to a text file
+                with open(textfile, "w", encoding="utf-8") as new_file:
+                    new_file.write(new_data)
 
-            # Write the scraped data to a text file
-            with open(textfile, "w", encoding="utf-8") as new_file:
-                new_file.write(new_data)
+                if old_data != new_data:
 
-            if old_data != new_data:
+                    diff = difflib.HtmlDiff()
 
-                diff = difflib.HtmlDiff()
+                    # Generate the HTML-formatted diff
+                    diff_output = diff.make_file(old_data.splitlines(), new_data.splitlines())
 
-                # Generate the HTML-formatted diff
-                diff_output = diff.make_file(old_data.splitlines(), new_data.splitlines())
+                    
+                    with open(os.path.join(report_path, f"{filename}.html"), "w") as diff_file:
+                        diff_file.write(diff_output)
 
-                
-                with open(os.path.join(report_path, f"{filename}.html"), "w") as diff_file:
-                    diff_file.write(diff_output)
+                print(f"Scraped {data['title']}")
+                article_links.append(article_url)
 
-            print(f"Scraped {data['title']}")
-            article_links.append(article_url)
+                # Recursively scrape any linked articles
+                article_links = scrape_articles(article_url, article_links)
 
-            # Recursively scrape any linked articles
-            article_links = scrape_articles(article_url, article_links)
+    except Exception as e:
+        logging.error(f'Failed to scrape links in the given url {url}: {e}')
 
     return article_links
 

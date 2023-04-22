@@ -1,0 +1,6 @@
+DiscordIntegrator
+
+N/A
+
+DiscordIntegrator error: ID of the server isn't supplied. On instructions how to find a Discord server ID, see this
+

@@ -1,0 +1,40 @@
+Mystery tour
+
+N/A
+
+Orville notices the player's Nook Miles Ticket
+Mystery tours are a feature introduced in New Horizons, which allows the player to visit random uncharted islands from the airport on their island. Mystery tours provide the player with a way to gather more crafting materials, such as iron nuggets if they run out of them on their home island, as well as opportunities to collect rare fish and bugs, non-native fruit trees, and hybrid flowers.
+
+Accessing the island requires a Nook Miles Ticket, which can be purchased from the Nook Stop in Resident Services for 2,000 Nook Miles. The player must then visit the airport and talk to Orville, selecting the option to "visit other places." If the player has the Nook Miles Ticket in their inventory, Orville will notice and ask if the player would like to visit a mystery island. Visiting a mystery island uses up the Nook Miles Ticket.
+
+Wilbur greeting the player to the mystery island
+All mystery tour islands are guaranteed to feature a dock where the player arrives and can return to their own island, a non-removable simple DIY workbench, and beaches with at least four palm trees. A non-removable campfire will be present if a villager is camping on the island. If the island has hardwood and/or pine trees a random tree will drop a wasp nest while another will drop a random furniture item upon being shaken. There is a 50% chance of a single fossil spawning, as well as a 50% chance of a message in a bottle spawning on the shore. Wilbur is also always present on the dock and will sell flimsy tools in exchange for Nook Miles. The makeup of the island's interior is randomly chosen from a pool of layouts.
+
+If the player has one or more empty house plots available on their island, each mystery tour island will have one random villager camping there. They can be invited to move to the player's island. When all house plots are occupied, no villagers will be present on the mystery islands. They will also not be there if you have reached the limit of villagers living on your island (10 NPC Villagers) and can't reserve any more plots. Villagers are selected the moment the player initiated a mystery tour, and the villager is rolled first on species, then a villager of that species. The game will not factor in personality types at all, and will not consider duplicates or villagers that you have encountered before.
+
+Villagers in your move in queue (obtained from other player's voids and there can only be 4) are excluded from appearing in mystery island tours. They are different from the villagers that Tom Nook invites, as Tom Nook tends to invite villagers of personality types you don't have, and villagers from the move in queue will always claim they moved from a different player island.
+
+If the player has already invited a villager to move to their island that day, even if they have more open plots, no villagers will be present on the mystery island tours. Note that there is an exception to this when filling the initial 3 plots, players can invite more than one villager per day at that time, consisting of one Lazy, one Peppy, and one Normal villager.
+
+Some mystery islands spawn large numbers of rare critters: there exists an island where only tarantulas and scorpions spawn, providing the player with a way to grind large amounts of Bells relatively quickly, similar to palm tree bugs on the island in New Leaf. Passing out due to a tarantula or scorpion bite on a mystery island will not return the player to their home island; they will wake up by the seaplane at the beginning of the island.
+
+Some mystery islands can only be visited at a certain time of day, such as the island infested with hostile insects at 7 PM to 4 AM. However, whatever time you arrived at your island is your locked encounter table for bugs and fish. So you can arrive at an island at 3:59 pm and catch bugs that stop spawning at 4 pm after that time. Likewise, you can visit a nocturnal island, put your system to sleep, and resume your game during the day and get nocturnal spawns during the day.
+
+There is also one special type of mystery island, the May Day island. This island is only accessible once per year during the month of May, by using an unseen one-use item, the May Day Ticket, and is different each year. The player can acknowledge this island and the ticket used to get there by talking to Tom Nook during any time during May, which will inform them that a May Day ticket has been sent to the airport and is ready to be used, however the ticket itself is never present in the player's inventory and is only mentioned by Tom Nook and Orville. The May Day island is a maze where the player has all tools and items removed from their inventory and must work their way out with very limited materials to craft new ones. If a player gets stuck and cannot complete the maze, they can use the Rescue Service app of their NookPhone in order to start over. At the end of the maze, the player gets to meet Rover. Rover will give you his briefcase as a reward for the first year doing the May Day event, and a photo of him for the second time doing the May Day event.
+
+With the 2.0.0 update, Kapp'n is also able to take the player on Mystery Tours once per day by paying 1,000 Nook Miles. He is unlocked after the player has gotten K.K. Slider to visit their island, and after 10 total villagers have moved in. The mystery islands here differ in the fact that they are not limited to the season or time that you are currently in, allowing players to catch off-season bugs and fish. These islands also feature buried gyroid fragments, which you can bring back to your island.
+
+The same island cannot be visited more than once; even though visiting an island with the same layout and theme is possible, if items were left on the ground on a similar one, they will not be present when the player "returns." Wilbur explains that he burns the flight plans to these islands after each trip for "security reasons".
+
+There are exactly 18 unique island layouts. They have been given conjectural names because mystery tour islands are unnamed. Island layouts marked "(rare)" can only be encountered once per day. Some islands will only begin appearing after the Resident Services tent on the player's island has been upgraded to a building.
+
+With the 1.2.0. update, 2 islands containing hybrid flowers were removed and encounter rates were adjusted.
+
+With the 2.0.0. update, A new list of islands are available, but players can only visit them with Kapp'n. They are separated into two lists of "normal" and "rare" island types. The game first rolls for the island type, and then chooses the island. Common islands have a 78% chance of being chosen, and rare islands have a 22%. However, if the player's island hasn't passed certain dates, some rare islands might be unavailable. For example, islands that never experienced winter will never allow Kapp'n to take the player to the Snow Island. When an unavailable rare island is rolled, the game instead rerolls a normal island.
+
+Additionally, all common islands (except the Full Gyroid Island) has a 5% chance of having 1000 bell money trees instead of fruit trees, a 2% chance of all rocks becoming money rocks, and a 29.4% chance that only one rock will become a money rock.
+
+(note, each island has a small number of different maps to choose from, because of this I decided to remove the map section.)
+
+These two islands were removed with the 1.2.0 Earth Day update.
+

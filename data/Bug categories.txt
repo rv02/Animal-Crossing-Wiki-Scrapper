@@ -1,0 +1,6 @@
+Bug categories
+
+N/A
+
+A list of Bugs organized by categories.
+

@@ -1,0 +1,62 @@
+Island evaluation
+
+N/A
+
+An island evaluated with a 5-star rating
+Island evaluation is a service in New Horizons offered by Isabelle at Resident Services after the player completes the campsite on the deserted island and the first campsite visitor finishes moving in as a resident. The task force to survey island residents and visitors, Isabelle scores the island's popularity on a scale of 1 to 5 stars.
+
+Increasing the island's star rating unlocks new milestones and rewards. After achieving a 3-star rating for the first time, Tom Nook ends Project K by asking K.K. Slider to hold a concert on the island. K.K.'s concert occurs the next day, or on the day after any pre-scheduled event, after which Tom Nook presents the player with the Island Designer app and K.K. visits the island every Saturday or Sunday (formerly Friday). After achieving a 5-star rating for the first time, Isabelle rewards the player with the DIY recipe for the golden watering can and one lily-of-the-valley spawns on the island every week as long as the rating holds.
+
+Island Evaluations cannot be given on Sundays in August as she takes the day off during the fireworks festival as well as during New Year's Eve when Resident Services are closed.
+
+To find out your island evaluation score, visit Resident Services and sit at Isabelle's counter*. When she asks you what she can help you with, select "Island evals". Here she tells you your island's star rating, a review from a villager or special character on your island, and tips on how you can improve your island.
+
+The island evaluation system is based on an internal point system that is translated into a simplified rating of 1–5 stars. The star rating values are split into two separate categories: development and scenery. In order to increase your star rating, you must meet certain thresholds in both of these categories.
+
+*Isabelle will not be at the counter during the Fireworks Show, therefore you cannot get your evaluation.
+
+If any of these conditions are met, the player's island can achieve no more than 4 stars until they are rectified.
+
+Alongside the island's star rating, Isabelle also reads a feedback statement from one of the respondents to her surveys, usually a special visitor. In the case of feedback for 1-star islands, all statements are provided by only one respondent, Wisp, due to the island's insufficient population and low tourism.
+
+“I like how there aren't any ghosts around. It's a place where free spirits like me can just be free!”
+― Wisp
+“It's great that there isn't too much going on. I hope it'll stay nice and unassuming, like me.”
+― Wisp
+“It's a place I've been quietly watching. It's a secret to everybody. I don't want it to be famous.”
+― Wisp
+
+“I keep hearin' all things should be in moderation, but an island's image is worth workin' hard for, ain't it? Well, me an' my bro'll be backin' you up from behind the scenes, so you better just do your best, capisce?”
+― Resetti
+“I've been shipwrecked there a few times, so I consider myself an authority—and I've got ideas! Here's one. I feel like a fella's rescue party might arrive a BIT sooner if that place had more stuff going on. Add some hustle! Add some bustle! Make your island a port of call that'll turn heads and drop anchors.”
+― Gulliver
+“It's like when a snowperson is built juuuust right. Sure, it's a good thing to be well made and to feel the love. But I don't know that a snowperson would get the proper attention here. That's my take, anyway.”
+― Snowman
+
+“(player's island), man... Hearing about how chill it is... I'd go if I had the chance. -K.S.”
+― K.K. Slider (only seen after achieving 3-stars for the first time)
+“It's been growing real nice, like a big tree that's getting plenty of love and care. I'll be visiting a lot, tryin' to copy its secret sauce for success for my artists' collective!”
+― Harvey
+“Talkin' as one of two birds who've seen EVERYONE come and go from here, this place is goin' places! Keep up the good work! We'd love to need a second plane someday.”
+― Orville
+“I look forward to my Sunday visits. When Gram-Gram's knees get better, it'd be swell to bring her with me!”
+― Daisy Mae
+
+“I started visiting the island because my brother moved here, but I instantly fell in love with the place! Many communities build themselves so big and bright that you can hardly make out a star in the night sky... Not on (player's island)! I shall be a regular visitor to its shores—and skies!—for some time.”
+― Celeste
+
+“Back in my day, the key to a good life was a low reset rate. Ya feel what I'm gettin' at? What I'm sayin' is, this here (player's island) ya got goin' on? This is one sharp locale! Got that?”
+― Resetti
+
+“This is a good island, filled with good feet that know the value of a good rug. Visitations are pleasant.”
+― Saharah
+
+“I've got reel strong feelings for that island. It's SUCH a catch. As soon as I made landfall, I knew I was hooked. Even the scale of the place schools the rest. Plus, everyone there's, like, my chum. Yeah, it's fintastic! Nyuk!”
+― C.J.
+“This roiled throne of bugs, this sceptered isle, this hive of majesty... This infested plot, this earth, this terrarium, this (player's island).”
+― Flick
+“Number one on the list of islands that snowpeople want to be born on at least once: (player's island)! I can't wait for one of your island residents to roll me up and give me life in this beautiful place!”
+― Snowman
+“Number one on the list of islands that snowpeople want to be born on at least once: (player's island)! Next winter, I want someone who lives on this island to roll me up and give me life!”
+― Snowman
+

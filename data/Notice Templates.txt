@@ -1,0 +1,6 @@
+Notice Templates
+
+N/A
+
+Category:Notice Templates contains any template used to inform users, sysops, and admins about the status of a page. For a list of pages that have the notices on them, select the template and click "What links here".
+

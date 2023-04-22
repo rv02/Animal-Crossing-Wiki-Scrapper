@@ -1,0 +1,29 @@
+Talk: Island evaluation
+
+N/A
+
+There is an error in the rating formula. I have an island that is borderline five stars in the Development category. I picked up eight pieces of fence (-1.6 points Development) and dropped to four stars. (Thankfully Isabelle's ratings are updated instantly.) Experiments setting up items in the town reveal that setting up either a Destinations signpost or a popcorn machine, with no other differences in each case, return the island to five stars. The problem is, the signpost is DIY and the popcorn machine is purchased. One or the other should make the island five stars, but not either-or. Rodneylives (talk) 07:53, June 11, 2020 (UTC)
+
+
+An addendum to the above--an islander left my island. I went to see Isabelle some time after, and was shocked that my formerly-borderline island had again dropped to four stars. Isabelle's message didn't say anything about being low on residents though, and what's more I thought having nine residents was okay. I tried placing about four or five pieces of furniture around (a video camera, a surfboard, a sand castle, maybe one or two other things I don't remember) and brought the island back up to five stars. Having my suspecions, I waited until the new islander moved in, checked with Isabelle to make sure I was still at five (I was) then removed the surfboard, sand castle and video camera. Sure enough, I was still at five stars. This makes me think that, in addition to the other buildings listed as providing Development points, resident houses also provide them, maybe at the same rate as the others (15 points each). More research in this area is likely called for. Rodneylives (talk) 10:32, June 16, 2020 (UTC)
+
+
+The 4 star rating is incorrect. I have 4 stars, but only 8 villagers. It seems like villagers play a role in your total "island score" or something, and the amount of furniture, trees, fencing, ect. all contribute to your score. I believe once you reach a certain threshold, you move up a rating.
+
+
+I think two star might be incrorect. I currently have a two star Island with 7 other villagers (8 residents total including me). I have already planted plenty of flowers and trees in hopes of unlocking the Island Designer app as soon as possible; maybe that's why I have two stars despite having only 7 residents.
+
+
+There is a cap at how much points flowers give to Island Scenery. I don't have enough scenery for 5 stars but got 190 trees and 680 flowers.
+
+Example calculations with some images (both from the game and as a grid of ASCII art) should be added. The furniture calculations are confusing.
+
+Also how does Nook Miles furniture factor in? Does it count as purchased? What price does it fall under?
+Merlinpatt (talk) 01:17, April 30, 2020 (UTC)
+
+My guess is that Nook Miles furniture is rated based on its price as if it were sold, that is, take the price Nook's Cranny offers for it if you try to sell it to them and multiply by four. An issue with offering an example is, there appear to be some errors with the calculation as given (see my comments under ratings corrections). Doing experiments today to try to figure out how many points different pieces of furniture are worth in Development points, a Streetlamp is worth 3.6 points (nicely efficient since it only takes one space), a Cushion 1.0 , a Life ring 1.6,  a Mr. Flamingo 2.4 and a Fountain (which is DIY) 6.6. Rodneylives (talk) 04:10, June 18, 2020 (UTC)
+
+Some items in the post are very vague, and I can't find sources to clarfify them myself.
+
+Flamingchemist (talk) 23:35, June 12, 2020 (UTC)
+

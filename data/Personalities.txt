@@ -1,0 +1,8 @@
+Personalities
+
+N/A
+
+This page has a list of all the personalities found in Animal Crossing series. Inspecting the file structure of Wild World, New Leaf, and Pocket Camp has revealed these personality types in filenames. The names were later confirmed as they are present in the debug symbols that shipped with Dōbutsu no Mori+, Animal Crossing, and Dōbutsu no Mori e+.
+
+The following personalities were introduced in New Leaf, their full names were confirmed and written out in various files in New Horizons:
+

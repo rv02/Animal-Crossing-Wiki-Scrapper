@@ -1,0 +1,6 @@
+Furniture
+
+N/A
+
+Furniture items are specifically for placing in houses, represented with the thumbnail of the leaf logo of Animal Crossing.
+
